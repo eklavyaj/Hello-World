@@ -1,0 +1,2 @@
+Hi, I am Eklavya Jain. I am pursuing BTech from Indian Institute of Technology,Guwahati with Mathematics and Computing as my major.
+This is my attempt to familiarise myself with git.
